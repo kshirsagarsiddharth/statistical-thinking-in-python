@@ -3,3 +3,7 @@ load.csv
 loading_data.ipynb
 Diabetes.csv
 clean_diabetes.csv
+prepare_data.ipynb
+outlier_1d.txt
+outlier_2d.txt
+outlier_curve.txt
